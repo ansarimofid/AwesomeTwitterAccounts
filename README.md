@@ -7,7 +7,7 @@ The current list is very small and we need your help to improve this.
 
 Fork the repo, add the accounts in an organized manner and send the PR.
 
-Before sending a PR, please see the [Contributing Guidelines](https://github.com/yask123/AwesomeTwitterAccounts#contributing-guidelines)
+Before sending a PR, please see the [Contributing Guidelines](CONTRIBUTING.md)
 
 
 #### Android
@@ -24,6 +24,16 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@richhickey](https://twitter.com/richhickey)
 * [@fogus](https://twitter.com/fogus)
 * [@cemerick] (https://twitter.com/cemerick)
+* [@swannodette](https://twitter.com/swannodette)
+* [@stuartsierra](https://twitter.com/stuartsierra)
+* [@weavejester](https://twitter.com/weavejester)
+* [@cgrand](https://twitter.com/cgrand)
+* [@timbaldridge](https://twitter.com/timbaldridge)
+* [@ambrosebs](https://twitter.com/ambrosebs)
+* [@mfikes](https://twitter.com/mfikes)
+* [@bbatsov](https://twitter.com/bbatsov)
+* [@ericnormand](https://twitter.com/ericnormand)
+* [@stuarthalloway](https://twitter.com/stuarthalloway)
 
 
 #### CSS
@@ -100,6 +110,14 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 #### Ruby
 * [@yukihiro_matz](https://twitter.com/yukihiro_matz) ([@matz_translated](https://twitter.com/matz_translated))
 * [@dhh](https://twitter.com/dhh)
+* [@tenderlove](https://twitter.com/tenderlove)
+* [@samsaffron](https://twitter.com/samsaffron)
+* [@rafaelfranca](https://twitter.com/rafaelfranca)
+* [@konstantinhaase](https://twitter.com/konstantinhaase)
+* [@fxn](https://twitter.com/fxn)
+* [@lrz](https://twitter.com/lrz)
+* [@headius](https://twitter.com/headius)
+* [@bkeepers](https://twitter.com/bkeepers)
 
 #### Swift
 * [@mxcl](https://twitter.com/mxcl)
@@ -119,16 +137,6 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 
 ======
 
-##Contributing Guidelines
-The person you add in the list must be either of the following:
-* A reputed programmer/developer 
-* Founder/Cofounder/co-creator of any popular programming language, libraries or Apps
-* Authors of any popular programming books
-* Other people of similar profiles
-
-When adding people, the commit message should be of the format: `Added @[github_handle1], @[github_handle2]`, (if their github account exists). 
-
-Example: `Added @fat, @adrianholovaty`
-
 ## ToDo
 * Add name and description of people along with their twitter handler.
+
